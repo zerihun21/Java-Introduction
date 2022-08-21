@@ -46,7 +46,7 @@ All Java platforms consist of a Java Virtual Machine (VM) and an application pro
 There are four platforms of the Java programming language:
 
 ## Java Platform, Standard Edition (Java SE)
-    The Java Standard Edition (Java SE) is the minimum requirement to run a Java application. This edition provides a solid basis to the Java Enterprise         Edition, and as such I will start by defining some of its components:
+The Java Standard Edition (Java SE) is the minimum requirement to run a Java application. This edition provides a solid basis to the Java Enterprise         Edition, and as such I will start by defining some of its components:
 
    ### Java Virtual Machine (JVM):
    The Java Virtual Machine (JVM) is responsible for supporting the execution of Java applications. This is the piece of the          platform that makes the statement write once, run everywhere true for Java. Each particular host operating system(Windows, Linux,Mac OS, etc) needs its own implementation of the JVM, otherwise it wouldn't be possible to run Java applications.
@@ -64,7 +64,7 @@ There are four platforms of the Java programming language:
 
 
   ## Java Platform, Enterprise Edition (Java EE):
-    As already stated, Java EE comes with a lot (more than 40) features based on JSRs. These features help companies to handle common needs like persistence,      security, web interfaces, state validation and so on. The following list enumerates some of the most important and used features of Java EE:
+ As already stated, Java EE comes with a lot (more than 40) features based on JSRs. These features help companies to handle common needs like persistence,      security, web interfaces, state validation and so on. The following list enumerates some of the most important and used features of Java EE:
 
     - Java Persistence API (JPA)—a specification for accessing, persisting and managing data between Java objects and a relational database
     - JavaServer Faces (JSF)—a specification for building component-based user interfaces for web applications
@@ -75,10 +75,9 @@ There are four platforms of the Java programming language:
   
 
   ## Java Platform, Micro Edition (Java ME):
-     It has concepts to develop software for consumer electronic devices means embedded systems, like mobile and electronic level applications. Java ME was popular for developing mobile gaming applications. This edition was called micro because these edition programs are embedded in small chips. The program embedded in the chip is called micro (small).
-    
-
-    - JavaFX
+It has concepts to develop software for consumer electronic devices means embedded systems, like mobile and electronic level applications. Java ME was popular for developing mobile gaming applications. This edition was called micro because these edition programs are embedded in small chips. The program embedded in the chip is called micro (small).
+   
+    -
     
    
 
